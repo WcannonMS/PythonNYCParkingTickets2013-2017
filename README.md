@@ -13,11 +13,11 @@ Size = 9 million recoreds per year with 43 columns.
 Purpose/Goal = To use python and data science to extract insights from the dataset.
 
 Initial Questions: 
-Question 1 = Where are you most likley to get a ticket?
-Question 2 = When are you most likley to get a ticket?
-Question 3 = What color gets the most tickets every year?
-Question 4 = What Make (manufacturer) gets the most tickets per year in NYC?
-Question 5 = What neighborhood has the most tickets?
+1. Where are you most likley to get a ticket?
+2. When are you most likley to get a ticket?
+3. What color gets the most tickets every year?
+4. What Make (manufacturer) gets the most tickets per year in NYC?
+5. What neighborhood has the most tickets?
 
 Plan for analysis:
 1. Simple import and exlorartory analysis using the Bokeh Package https://docs.bokeh.org/en/latest/index.html and Pandas/NumPy
