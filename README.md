@@ -2,9 +2,12 @@
 Analysis of the NYC Parking Ticket Data from Aug 2013 - Jun 2017 using Python &amp; Data Science
 
 Data Source = https://www.kaggle.com/new-york-city/nyc-parking-tickets
-Original Source with complete and up to date 2020 = 
+
+Original Source with complete and up to date FY2020 = 
 https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2020/pvqr-7yc4
+
 Context = Produced by the New York City Department of Finance, this dataset contains parking violations issued by fiscal year.
+
 Size = 9 million recoreds per year with 43 columns.
 
 Purpose/Goal = To use python and data science to extract insights from the dataset.
