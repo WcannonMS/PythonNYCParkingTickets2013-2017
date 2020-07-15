@@ -20,9 +20,11 @@ Initial Questions:
 4. What Make (manufacturer) gets the most tickets per year in NYC?
 5. What neighborhood has the most tickets?
 
-Plan for analysis:
-1. Simple import and exlorartory analysis using the Bokeh Package https://docs.bokeh.org/en/latest/index.html and Pandas/NumPy
-2. Inferential analysis using Pandas and NumPy
-3. Statistical/Predictive analysis using Python, NumPy, R and additional tools with Python
-4. Answer initial questions
+Plan for this porject:
+1. Simple import and exlorartory analysis using the Bokeh Package https://docs.bokeh.org/en/latest/index.html and Pandas and NumPy.  Clean and combine all of the data into a single file to load into the program.
+2. Plots (line charts, bar charts and etc), tables and simple statistices for summerization of the dataset.
+2b. Map of NYC showing where the tickets are geographically
+3. Inferential analysis using Pandas and NumPy
+4. Statistical/Predictive analysis using Python, NumPy, R and additional tools with Python
+5. Answer initial questions
 
