@@ -11,7 +11,8 @@ Context = Produced by the New York City Department of Finance, this dataset cont
 
 Size = 9 million recoreds per year with 43 columns.
 
-Purpose/Goal = To use python and data science to extract insights from the dataset.
+Purpose/Goal = Initially, use python and data science to extract insights from the dataset.  
+Longterm, build an infrastructure, workflow or API that consumes this data and pushes it to visuialzations.  
 
 Initial Questions: 
 1. Where are you most likley to get a ticket?
