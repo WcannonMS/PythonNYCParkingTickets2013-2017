@@ -29,3 +29,5 @@ Plan for this porject:
 4. Statistical/Predictive analysis using Python, NumPy, R and additional tools with Python
 5. Answer initial questions
 
+Files and Documents
+File001_ExploratoryAnalysis = Initial Exploratory Analysis File
