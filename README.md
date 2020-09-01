@@ -28,6 +28,7 @@ Plan for this porject:
 3. Inferential analysis using Pandas and NumPy
 4. Statistical/Predictive analysis using Python, NumPy, R and additional tools with Python
 5. Answer initial questions
+6. Build comparative visualizations in Tableau, and R
 
 Files and Documents
 File001_ExploratoryAnalysis = Initial Exploratory Analysis File
