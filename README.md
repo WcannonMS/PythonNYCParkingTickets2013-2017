@@ -1,5 +1,5 @@
 # Python NYC Parking Tickets 2013-2017
-Analysis of the NYC Parking Ticket Data from Aug 2013 - Jun 2017 using Python &amp; Data Science
+Analysis of the NYC Parking Ticket Data from Aug 2013 - Jun 2017 using Python and Data Science
 
 Data Source = https://www.kaggle.com/new-york-city/nyc-parking-tickets
 
@@ -22,13 +22,15 @@ Initial Questions:
 5. What neighborhood has the most tickets?
 
 Plan for this porject:
-1. Simple import and exlorartory analysis using the Bokeh Package https://docs.bokeh.org/en/latest/index.html and Pandas and NumPy.  Clean and combine all of the data into a single file to load into the program.
+1. Simple import and exlorartory analysis using the Bokeh Package https://docs.bokeh.org/en/latest/index.html and Pandas and NumPy.  
+1a. Load All Data into some type of database system or platform and perform statistical analysis there
+1b. Determine how to query and fetch the data once its all been stored and compiled
 2. Plots (line charts, bar charts and etc), tables and simple statistices for summerization of the dataset.
-2b. Map of NYC showing where the tickets are geographically
-3. Inferential analysis using Pandas and NumPy
-4. Statistical/Predictive analysis using Python, NumPy, R and additional tools with Python
-5. Answer initial questions
-6. Build comparative visualizations in Tableau, and R
+3. Map of NYC showing where the tickets are geographically
+4. Inferential analysis using Pandas and NumPy
+5. Statistical/Predictive analysis using Python, NumPy, R and additional tools with Python
+6. Answer initial questions
+7. Build comparative visualizations in Tableau, and R
 
 Files and Documents
 File001_ExploratoryAnalysis = Initial Exploratory Analysis File
