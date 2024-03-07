@@ -1,11 +1,11 @@
-# Python NYC Parking Tickets 2013-2017
-Analysis of the NYC Parking Ticket Data from Aug 2013 - Jun 2017 using Python and Data Science
+# Python NYC Parking Tickets FY2020-FY2023
+Analysis of the NYC Parking Ticket Data from FY2020-FY2023 using Python and some Data Science
 
-Data Source = https://www.kaggle.com/new-york-city/nyc-parking-tickets
+Data Source = https://opendata.cityofnewyork.us/
 
 Original Source with complete and up to date FY2020 = 
-https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2020/pvqr-7yc4
-Note: Years after 2017 will be added and updated later.
+https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2020/p7t3-5i9s/about_data
+Note: Years after 2023 will be added and updated later.
 
 Context = Produced by the New York City Department of Finance, this dataset contains parking violations issued by fiscal year.
 
